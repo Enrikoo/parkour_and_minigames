@@ -1,0 +1,11 @@
+creative_mode = true
+auth_backend = sqlite3
+player_backend = sqlite3
+gameid = minetest
+enable_damage = true
+backend = sqlite3
+load_mod_worldedit_shortcommands = false
+load_mod_worldedit = false
+load_mod_worldedit_gui = false
+load_mod_worldedit_commands = false
+server_announce = false
